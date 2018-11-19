@@ -54,6 +54,7 @@ header{
     text-decoration: none;
     color: #777777;
 }
+
 .navbar a:hover {
     color: #4aaaa5;
 }
@@ -87,6 +88,13 @@ header{
     margin: 20px 50px 30px 0px;
     position: relative;
     
+}
+.game a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.game a:hover{
+    color: #4aaaa5;
 }
 .game p{
     position: absolute;
